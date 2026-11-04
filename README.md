@@ -1,6 +1,6 @@
 # Hi, I'm Parsa Jafargholi 
 
-**Artificial Intelligence & Machine Learning | Data Analyst | MSc Artificial Intelligence @ University of Salford**
+**Artificial Intelligence & Machine Learning | Data Scientist | Data Analyst | MSc Artificial Intelligence @ University of Salford**
 
 I'm currently studying **MSc Artificial Intelligence at the University of Salford** and actively working on AI and machine learning projects. My background combines hands-on **data analytics** experience with building and evaluating **machine learning and deep learning** models.
 
