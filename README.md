@@ -1,4 +1,4 @@
-# Hi, I'm Parsa Jafargholi 👋
+# Hi, I'm Parsa Jafargholi 
 
 **Artificial Intelligence & Machine Learning | Data Analyst | MSc Artificial Intelligence @ University of Salford**
 
