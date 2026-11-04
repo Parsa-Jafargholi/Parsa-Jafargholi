@@ -1,45 +1,47 @@
 # Hi, I'm Parsa Jafargholi 👋
 
-**Data Analyst | MSc Artificial Intelligence Student at the University of Salford | Machine Learning & Applied AI**
+**Artificial Intelligence & Machine Learning | Data Analyst | MSc Artificial Intelligence @ University of Salford**
 
-I'm a data analyst currently studying MSc Artificial Intelligence at the University of Salford, with a background in data science and mechanical engineering. I enjoy using Python and machine learning to understand complex data, build reliable models, and solve practical problems.
+I'm currently studying **MSc Artificial Intelligence at the University of Salford** and actively working on AI and machine learning projects. My background combines hands-on **data analytics** experience with building and evaluating **machine learning and deep learning** models.
 
-My experience includes analysing industrial production data, identifying unusual patterns, and developing predictive models in a steel manufacturing environment. I'm particularly interested in predictive maintenance, customer analytics, natural language processing, and computer vision.
+I have worked with industrial production data to investigate patterns, detect anomalies, and develop predictive models. Today, I'm expanding that experience through practical AI work in **computer vision, classification, clustering, and natural language processing**. I enjoy turning real-world data into clear findings and useful solutions.
 
-## About me
+## What I'm working on
 
-- 🎓 Currently studying MSc Artificial Intelligence — [University of Salford](https://www.salford.ac.uk/courses/postgraduate/artificial-intelligence)
-- 🎓 MSc in Data Science — Shahid Beheshti University
-- 🎓 BSc in Mechanical Engineering — Amirkabir University of Technology
-- 💼 Experience in industrial data analytics, anomaly detection, and predictive modelling
-- 📍 Based in the United Kingdom
-- 🔍 Currently exploring applied AI, e-commerce analytics, and computer vision
+- 🤖 **Applied AI & machine learning:** experimenting with models, comparing methods, and evaluating their performance
+- 👁️ **Computer vision:** developing an image-based approach to assess scooter parking
+- 📊 **Behavioural analytics:** exploring customer segmentation and e-commerce behaviour
+- 🧠 **Deep learning & NLP:** building on previous image and text classification projects
+
+## Background
+
+- 🎓 **MSc Artificial Intelligence (current)** — [University of Salford](https://www.salford.ac.uk/courses/postgraduate/artificial-intelligence)
+- 🎓 **MSc Data Science** — Shahid Beheshti University
+- 🎓 **BSc Mechanical Engineering** — Amirkabir University of Technology
+- 💼 **Data Analyst experience** — industrial analytics, anomaly detection, data visualisation, and predictive modelling
+- 📍 United Kingdom
 
 ## Technical skills
 
-**Programming:** Python, SQL, C (fundamentals)  
-**Data analysis:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
-**Machine learning:** scikit-learn, clustering, classification, model evaluation  
-**Deep learning:** TensorFlow/Keras, PyTorch  
-**Data processing & tools:** PySpark, Git, Google Colab
+**AI & machine learning:** scikit-learn, clustering, classification, model evaluation, predictive modelling  
+**Deep learning & computer vision:** PyTorch, TensorFlow/Keras, CNNs, image classification  
+**Data analytics:** Pandas, NumPy, Matplotlib, Seaborn, exploratory data analysis  
+**Programming & tools:** Python, SQL, Jupyter Notebook, Google Colab, Git, PySpark, C (fundamentals)
 
 ## Selected projects
 
-| Project | What it demonstrates |
+| Project | Focus |
 | --- | --- |
-| [Persian Text Classification](https://github.com/Parsa-Jafargholi/Persian_Text_Classifier_SnappFood) | Persian text preprocessing and sentiment/text classification using traditional ML and LSTM approaches. |
-| [CIFAR-10 Deep Learning](https://github.com/Parsa-Jafargholi/Deep-Learning-CIFAR10) | Image classification experiments with GoogLeNet and ResNet-18. |
-| [PySpark Data Processing](https://github.com/Parsa-Jafargholi/PySpark-Data-Processing) | Data transformations and a classification example using PySpark. |
-| [Bank Marketing EDA](https://github.com/Parsa-Jafargholi/EDA-Bank-Full) | Data cleaning, visualisation, and exploratory insights from bank marketing data. |
-| [Clustering Analysis Toolkit](https://github.com/Parsa-Jafargholi/Clustering_Analysis_Toolkit) | Experiments with CURE and BIRCH clustering, scaling, PCA, and visualisation. |
+| [Persian Text Classification](https://github.com/Parsa-Jafargholi/Persian_Text_Classifier_SnappFood) | NLP, text preprocessing, machine learning, and LSTM-based classification |
+| [CIFAR-10 Deep Learning](https://github.com/Parsa-Jafargholi/Deep-Learning-CIFAR10) | Computer vision experiments with GoogLeNet and ResNet-18 |
+| [Clustering Analysis Toolkit](https://github.com/Parsa-Jafargholi/Clustering_Analysis_Toolkit) | Unsupervised learning with CURE, BIRCH, PCA, and visualisation |
+| [PySpark Data Processing](https://github.com/Parsa-Jafargholi/PySpark-Data-Processing) | Data processing and machine learning with PySpark |
+| [Bank Marketing EDA](https://github.com/Parsa-Jafargholi/EDA-Bank-Full) | Exploratory data analysis, visualisation, and business insights |
 
-## Areas of interest
+## Interests
 
-- Applied machine learning and model evaluation
-- Predictive maintenance and reliability analytics
-- Customer segmentation and business insights
-- Natural language processing and computer vision
+**Applied AI · Machine Learning · Computer Vision · NLP · Predictive Analytics · Data Analytics**
 
 ---
 
-*I value clear analysis, reproducible code, and practical conclusions.*
+*Interested in practical AI systems, rigorous model evaluation, and clear, reproducible analysis.*
